@@ -1,0 +1,3 @@
+[submodule "Ui/medic-ui"]
+	path = Ui/medic-ui
+	url = https://github.com/axviel/MedicUI.git
